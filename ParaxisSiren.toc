@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: Paraxis Siren
+## Notes: Plays an air raid siren when the Paraxis arrives.
+## Author: Walter Kuppens
+## Version: 1.0.0
+ParaxisSiren.lua
+ParaxisSiren.xml
